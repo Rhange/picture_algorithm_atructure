@@ -67,3 +67,15 @@
     - 순차 파일
     - 색인 파일
     - 직접 파일
+
+## 5. 정렬 알고리즘
+
+- 버킷 정렬(bucket sort)
+- 기수 정렬(radix sort)
+- 선택 정렬(selection sort)
+- 교환 정렬(exchange sort)
+- 삽입 정렬(insert sort)
+- 쉘 정렬(shell sort)
+- 병합 정렬(merge sort)
+- 퀵 정렬
+- 힙 정렬
